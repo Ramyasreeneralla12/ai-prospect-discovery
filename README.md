@@ -2,7 +2,6 @@
 
 An AI-powered prospect discovery API that identifies publicly indexed, evidence-backed prospect profiles using natural-language queries and an authorized search API.
 
-**Live API:** https://ai-prospect-discovery.onrender.com  
 **Swagger Documentation:** https://ai-prospect-discovery.onrender.com/docs  
 **Health Check:** https://ai-prospect-discovery.onrender.com/health  
 **GitHub Repository:** https://github.com/Ramyasreeneralla12/ai-prospect-discovery
